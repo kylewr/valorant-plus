@@ -1,0 +1,1 @@
+scoreboard players set #TIMER_TICKS VAL_WAITTICK 1

@@ -1,0 +1,1 @@
+execute unless score #TICK meow_title_tick matches ..-1 run function tools:title_tick_1

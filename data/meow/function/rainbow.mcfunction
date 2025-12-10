@@ -1,0 +1,2 @@
+item replace entity @s armor.head with minecraft:red_stained_glass[custom_name='["",{"text":"Ruffr\'s Rainbow Helm","color":"yellow","italic":false,"bold":true}]'] 1
+scoreboard players set @s meow_rainbow 1

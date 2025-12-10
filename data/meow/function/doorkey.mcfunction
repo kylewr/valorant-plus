@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick[custom_name='["",{"text":"Door Key","color":"green","italic":false,"bold":true}]',enchantment_glint_override=1]

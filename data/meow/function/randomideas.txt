@@ -1,0 +1,8 @@
+like funny valorant using things
+
+- use hotbar slot to start using an item
+- will automatically swithc back to 0
+- consumes it
+- does whatever
+
+find a way to use data storage values 
